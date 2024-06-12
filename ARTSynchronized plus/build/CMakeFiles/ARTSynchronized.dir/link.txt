@@ -1,0 +1,2 @@
+/usr/bin/ar qc libARTSynchronized.a CMakeFiles/ARTSynchronized.dir/OptimisticLockCoupling/Tree.cpp.o CMakeFiles/ARTSynchronized.dir/ROWEX/Tree.cpp.o CMakeFiles/ARTSynchronized.dir/ART/Tree.cpp.o
+/usr/bin/ranlib libARTSynchronized.a

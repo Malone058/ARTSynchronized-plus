@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++14 -g -Wall -Wextra -march=native -O3 -DNDEBUG -rdynamic CMakeFiles/example.dir/example.cpp.o -o example  libARTSynchronized.a -ltbb -ljemalloc -lgomp -Wl,-Bstatic -lpthread -Wl,-Bdynamic 
